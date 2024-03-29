@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>Hugo测试</title><url>/post/test/</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>Hugo测试</title><url>/post/test/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag><tag><no value=/></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
 早就想做个人主页了，但是以前要么是技术力不够，要么是不好看。找了半天终于在hugo里翻到了原先看hexo时候特别喜欢的一款主题
 NexT Theme (github.com)
 ，简洁，不花里胡哨，而且有别人预先配置得还不错的仓库
 hugo-next/hugo-theme-next-starter: Starter for Hugo NexT theme. (github.com)
-，点击使用！
+，配了一段时间，好多没用上的东西，慢慢删吧。
 啥也不动，直接用markdown写东西，舒服。</content></entry><entry><title>关于我</title><url>/aboutme/</url><categories><category>碎碎念</category></categories><tags><tag>半夜发癫</tag></tags><content type="html"> 关于我（成分介绍）：
 计算机专业 ：我被XX大学害惨了.jpg
 F1车迷：中国人有车开就看，没车开了再说
