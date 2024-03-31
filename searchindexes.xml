@@ -1,13 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>Hugo测试</title><url>/post/test/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>Latex学习记录</title><url>/post/randomtech/latex/</url><categories><category>杂项技术</category></categories><tags><tag>Latex</tag></tags><content type="html"> 记录一下Latex学习过程，从安装到入土。
+安装Tex Live，找编辑器，学语法一条龙。
+LaTex是一种排版技术，通过特定的指令可以控制文档内容（如图片、文本等）的位置、大小和样式。
+准备工作：
+1.安装Tex Live
+清华镜像站：
+Index of /CTAN/systems/texlive/Images/ | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror
+下载镜像后，打开index.html，可以查看简易安装教程。
+Tex Live是一个集成功能较多，镜像体积较大的All In One，安装较为耗时（i7-11800H安装全程45分钟左右，仅作参考），嫌时间长的可以选择按装更简单、更小的MiKTeX：
+Getting MiKTeX
+安装完记得添加环境变量。
+2.编译环境
+安装Tex Live后，自带的TexWorks就可以将Latex文档编译成PDF。可选的编辑器/编译环境还有：VS Code|TexStudio|Sublime Text等。
+3.开写！
+作为初阶使用者，不需要搞懂LaTeX的模板是怎么做的，想投那个刊就从哪里下载模板，自己打开看就完事了，随机多找几个模板多看看也行。在模板上改，不会用就复制粘贴。熟能生巧嘛。
+值得注意的是，LaTeX对数学公式的支持完备而复杂，可以找几个在线LaTeX公式编辑器写几个公式，再把LaTeX表达式粘贴回来。这里给出几个网站以供参考。
+在线LaTeX公式编辑器-编辑器 (latexlive.com)
+LatexEasy | 在线Latex数学公式编辑和渲染</content></entry><entry><title>Hugo测试</title><url>/post/others/test/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
 早就想做个人主页了，但是以前要么是技术力不够，要么是不好看。找了半天终于在hugo里翻到了原先看hexo时候特别喜欢的一款主题
 NexT Theme (github.com)
 ，简洁，不花里胡哨，而且有别人预先配置得还不错的仓库
 hugo-next/hugo-theme-next-starter: Starter for Hugo NexT theme. (github.com)
 ，配了一段时间，好多没用上的东西，慢慢删吧。
-啥也不动，直接用markdown写东西，舒服。</content></entry><entry><title>关于我</title><url>/aboutme/</url><categories><category>碎碎念</category></categories><tags><tag>半夜发癫</tag></tags><content type="html"> 关于我：
-专业 ：计科Computer Science，但我还是要说：我被XX大学害惨了.jpg。学习兴趣广泛
-语言喜好：Java，Python，Go （特别指出：我喜欢≠我学会）
-音乐：会钢琴但不咋练，买了FL Studio但不咋用
+啥也不动，直接用markdown写东西，舒服。</content></entry><entry><title>关于我</title><url>/aboutme/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag></tags><content type="html"> 关于我：
+专业 ：计科Computer Science，我被XX大学害惨了.jpg。学习兴趣广泛。
+语言喜好：Java，Python，Go （特别指出：我喜欢≠我学会）。我要成为炼丹高手！.jpg。
+音乐：会钢琴但不咋练，买了FL Studio但不咋用，有生之年。
 游戏：很难集中精力通关3A了，steam库里小游戏想起哪个玩哪个。强推蔚蓝。装甲核心真好玩。
-Minecraft：曾经的白月光，玩的频率赶不上更新了
-F1车迷：中国人有车开就看，没车开了再说</content></entry></search>
+Minecraft：曾经的白月光，玩的频率赶不上更新了。有生之年。
+F1：中国人有车开就看，治疗低血压。</content></entry></search>
