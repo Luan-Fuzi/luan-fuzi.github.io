@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>Hugo测试</title><url>/post/test/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag><tag><no value=/></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>Hugo测试</title><url>/post/test/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
 早就想做个人主页了，但是以前要么是技术力不够，要么是不好看。找了半天终于在hugo里翻到了原先看hexo时候特别喜欢的一款主题
 NexT Theme (github.com)
 ，简洁，不花里胡哨，而且有别人预先配置得还不错的仓库
