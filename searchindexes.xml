@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>Zotero简易使用教程</title><url>/post/randomtech/zotero/</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html"> Zotero是一款主要用于阅读、管理文献的软件，相比于一般的PDF阅读器，拥有更加优秀、定制化的论文辅助功能。
-留档</content></entry><entry><title>Latex学习记录</title><url>/post/randomtech/latex/</url><categories><category>杂项技术</category></categories><tags><tag>Latex</tag></tags><content type="html"> 记录一下Latex学习过程，从安装到入土。
+1.下载
+Zotero | Your personal research assistant
+直接Download。这一步建议顺手注册，可以使用包括备份在内的便捷功能。
+2.开用</content></entry><entry><title>Latex学习记录</title><url>/post/randomtech/latex/</url><categories><category>杂项技术</category></categories><tags><tag>Latex</tag></tags><content type="html"> 记录一下Latex学习过程，从安装到入土。
 安装Tex Live，找编辑器，学语法一条龙。
 LaTex是一种排版技术，通过特定的指令可以控制文档内容（如图片、文本等）的位置、大小和样式。
 准备工作：
