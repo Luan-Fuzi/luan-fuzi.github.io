@@ -13,24 +13,29 @@ Zotero | Your personal research assistant
 3&amp;hellip;.然后先别急着用
 原生的Zotero已经挺好用的了，但是我们还有许多方法可以让它更好用。
 Zotero 插件商店 - Zotero 中文社区 (zotero-chinese.com)
-提供了不少第三方插件，比如我常用的Translate for Zotero可以划线翻译，支持添加第三方API，等等。</content></entry><entry><title>Latex学习记录</title><url>/post/randomtech/latex/</url><categories><category>杂项技术</category></categories><tags><tag>Latex</tag></tags><content type="html"> 记录一下Latex学习过程，从安装到入土。
+提供了不少第三方插件，比如我常用的Translate for Zotero可以划线翻译，支持添加第三方API，等等。</content></entry><entry><title>Latex学习记录</title><url>/post/randomtech/latex/latex/</url><categories><category>杂项技术</category></categories><tags><tag>Latex</tag></tags><content type="html"> 记录一下Latex学习过程，从安装到入土。
 安装Tex Live，找编辑器，学语法一条龙。
 LaTex是一种排版技术，通过特定的指令可以控制文档内容（如图片、文本等）的位置、大小和样式。
-准备工作：
-1.安装Tex Live
+以下是基础使用流程。
+操作系统：Windows 10 22H2
+CPU: Intel i7-11800H
+安装Tex Live
+使用LaTeX进行写作的第一步是安装LaTex的编译环境。为新手考虑，在硬盘空间充足的硬盘内优先考虑安装功能较全的Tex Live.
 清华镜像站：
 Index of /CTAN/systems/texlive/Images/ | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror
-下载镜像后，打开index.html，可以查看简易安装教程。
+下载镜像后，打开镜像内部index.html，可以查看官方提供的简易安装教程；也可以观看类似教程视频
+TeX Live 2023安装
 Tex Live是一个集成功能较多，镜像体积较大的All In One，安装较为耗时（i7-11800H安装全程45分钟左右，仅作参考），嫌时间长的可以选择按装更简单、更小的MiKTeX：
 Getting MiKTeX
-安装完记得添加环境变量。
-2.编译环境
-安装Tex Live后，自带的TexWorks就可以将Latex文档编译成PDF。可选的编辑器/编译环境还有：VS Code|TexStudio|Sublime Text等。
-3.开写！
-作为初阶使用者，不需要搞懂LaTeX的模板是怎么做的，想投那个刊就从哪里下载模板，自己打开看就完事了，随机多找几个模板多看看也行。在模板上改，不会用就复制粘贴。熟能生巧嘛。
-值得注意的是，LaTeX对数学公式的支持完备而复杂，可以找几个在线LaTeX公式编辑器写几个公式，再把LaTeX表达式粘贴回来。这里给出几个网站以供参考。
-在线LaTeX公式编辑器-编辑器 (latexlive.com)
-LatexEasy | 在线Latex数学公式编辑和渲染</content></entry><entry><title>Hugo测试</title><url>/post/others/test/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
+安装完记得在Path路径下添加环境变量。
+编辑器
+安装Tex Live后应该会附属一个编辑器（或者叫IDE？）TexWorks，可以方便地将Latex文档编译成PDF。
+因为编译本质上由LaTex完成，所以编辑器并不局限于TexWorks或某种编辑器。可选的编辑器/编译环境还有TexStudio|VS Code|Sublime Text等。
+作为一个万年VS Code用户，我抛弃了便捷好用的TexWorks，安装了更人性化、更强大的Tex Studio也没久用，最终选择了VS Code + LaTeX插件。需要注意的是，VS Code安装插件后虽然能用，但并不是最舒服的一个使用环境，需要进入Settings打开JSON文件进行某些配置。我本人也对研究配置环境兴趣不大，所以这里贴一个我用的配置文件：
+Visual Studio Code (vscode)配置LaTeX - 知乎 (zhihu.com)
+开写！
+作为初阶使用者，不需要搞懂LaTeX的模板是怎么做的，想投那个刊就从哪里下载模板，模板内会有较为详细的LaTeX语法教程，在模板的上基础上把自己的内容改进去。随用随学，效率至上。
+值得注意的 …</content></entry><entry><title>Hugo测试</title><url>/post/others/test/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
 早就想做个人主页了，但是以前要么是技术力不够，要么是不好看。找了半天终于在hugo里翻到了原先看hexo时候特别喜欢的一款主题
 NexT Theme (github.com)
 ，简洁，不花里胡哨，而且有别人预先配置得还不错的仓库
