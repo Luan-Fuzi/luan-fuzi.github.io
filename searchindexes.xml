@@ -21,8 +21,10 @@ LaTex是一种排版技术，通过特定的指令可以控制文档内容（如
 CPU: Intel i7-11800H
 安装Tex Live
 使用LaTeX进行写作的第一步是安装LaTex的编译环境。为新手考虑，在硬盘空间充足的硬盘内优先考虑安装功能较全的Tex Live.
-清华镜像站：
+简陋的官网
+国内比较方便的下载途径——清华镜像站：
 Index of /CTAN/systems/texlive/Images/ | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror
+清华镜像站
 下载镜像后，打开镜像内部index.html，可以查看官方提供的简易安装教程；也可以观看类似教程视频
 TeX Live 2023安装
 Tex Live是一个集成功能较多，镜像体积较大的All In One，安装较为耗时（i7-11800H安装全程45分钟左右，仅作参考），嫌时间长的可以选择按装更简单、更小的MiKTeX：
@@ -34,8 +36,7 @@ Getting MiKTeX
 作为一个万年VS Code用户，我抛弃了便捷好用的TexWorks，安装了更人性化、更强大的Tex Studio也没久用，最终选择了VS Code + LaTeX插件。需要注意的是，VS Code安装插件后虽然能用，但并不是最舒服的一个使用环境，需要进入Settings打开JSON文件进行某些配置。我本人也对研究配置环境兴趣不大，所以这里贴一个我用的配置文件：
 Visual Studio Code (vscode)配置LaTeX - 知乎 (zhihu.com)
 开写！
-作为初阶使用者，不需要搞懂LaTeX的模板是怎么做的，想投那个刊就从哪里下载模板，模板内会有较为详细的LaTeX语法教程，在模板的上基础上把自己的内容改进去。随用随学，效率至上。
-值得注意 …</content></entry><entry><title>Hugo测试</title><url>/post/others/test/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
+LaTeX作为一种[能且仅能在写文章时用上]的工具，不必像编程语言那样从零开始啃语法，更不需要搞懂LaTeX的模板是怎么做的。作为初阶使用 …</content></entry><entry><title>Hugo测试</title><url>/post/others/test/</url><categories><category>碎碎念</category></categories><tags><tag>深夜发癫</tag></tags><content type="html"> 尝试使用hugo进行一个个人主页的维护。
 早就想做个人主页了，但是以前要么是技术力不够，要么是不好看。找了半天终于在hugo里翻到了原先看hexo时候特别喜欢的一款主题
 NexT Theme (github.com)
 ，简洁，不花里胡哨，而且有别人预先配置得还不错的仓库
