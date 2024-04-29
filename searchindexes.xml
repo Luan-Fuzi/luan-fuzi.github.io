@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>Github仓库同步</title><url>/post/randomtech/repositorysync/sync/</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html"> 有时会想将Github的仓库同步到其他的git仓库，比如Github Pages或者Gittee。可以通过Github Action再加上亿点点配置达成效果。
-待续</content></entry><entry><title>Golang学习笔记</title><url>/post/language/golangbasic/</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html"> Golang基础学习笔记
-灵机一动打算学一下Golang，于是乎简单记录一下学习过程。
+待续</content></entry><entry><title>Golang学习笔记</title><url>/post/language/golangbasic/golangbasic/</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html"> Golang基础学习笔记
+灵机一动打算学一下Golang，于是乎简单记录一下学习过程。 本文主要记录（我认为的）Golang语言和其它语言，如C/C++，Java有所差异的部分。
 参考链接：
 《Go 入门指南》 | Go 技术论坛 (learnku.com)
-1.基本类型</content></entry><entry><title>Zotero简易使用教程</title><url>/post/randomtech/zotero/</url><categories><category>杂项技术</category></categories><tags><tag>Zotero</tag><tag>论文</tag></tags><content type="html"> Zotero是一款主要用于阅读、管理文献的软件，相比于一般的PDF阅读器，拥有更加优秀、定制化的论文辅助功能。
+背景
+起源
+Golang是起源于2007年的谷歌某小组的项目，是一种静态、强类型、编译语言，拥有接近C++的编译后运行速度，主要特长在于内存安全、原生支持高并发、高效内存回收，拥有比较奇怪的自成一派的比较简单好学的语法（不仅和较老的C和Java比，而且和相对比较现代的Kotlin和C#比，我也觉得怪怪的）。
+土拨鼠
+我很喜欢Golang的图标，足够弱智，有一种脑干缺失的美。也很可爱。
+基础语法
+面向对象</content></entry><entry><title>Zotero简易使用教程</title><url>/post/randomtech/zotero/</url><categories><category>杂项技术</category></categories><tags><tag>Zotero</tag><tag>论文</tag></tags><content type="html"> Zotero是一款主要用于阅读、管理文献的软件，相比于一般的PDF阅读器，拥有更加优秀、定制化的论文辅助功能。
 1.下载
 Zotero | Your personal research assistant
 直接点击Download。这一步前建议顺手注册，可以使用包括备份在内的便捷功能。
