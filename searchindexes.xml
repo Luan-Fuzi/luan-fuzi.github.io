@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>深度学习小工具</title><url>/post/randomtech/trainingtools/trainingtools/</url><categories><category>深度学习</category></categories><tags><tag>工具</tag></tags><content type="html"> 整理一些深度学习过程中用到的小工具。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>深度学习小工具</title><url>/post/randomtech/trainingtools/trainingtools/</url><categories><category>深度学习</category></categories><tags><tag>工具</tag></tags><content type="html"> 整理一些深度学习过程中用到的小工具，提升1%的工作效率并提高99%的工作满意度。
 GPU状态监控
 N卡自带的监控可以使用nvidia-smi指令调用，好处是驱动自带，坏处是&amp;hellip;其实这监控没给多少有用信息。
 使用nvtop获得更加炫酷、更加详细的监控指标。
-哈哈2
+TensorboardX or wandb?
+wandb适合团队协作、远程访问，功能强大，但我有时也懒得配。
+TensorboardX做单卡少次训练也够用，如果不是特别注重细节。
 哈哈哈3</content></entry><entry><title>Github仓库同步</title><url>/post/randomtech/repositorysync/sync/</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html"> 有时会想将Github的仓库同步到其他的git仓库，比如Github Pages或者Gittee。可以通过Github Action再加上亿点点配置达成效果。
 待续</content></entry><entry><title>Golang学习笔记</title><url>/post/language/golangbasic/golangbasic/</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html"> Golang基础学习笔记
 灵机一动打算学一下Golang，于是乎简单记录一下学习过程。 本文主要记录（我认为的）Golang语言和其它语言，如C/C++，Java有所差异的部分。
